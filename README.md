@@ -1,5 +1,5 @@
 # Channel-Estimation-Based-on-DNN
-The only authur is [Guanxiong Shen](https://github.com/617147567), Heriot-watt University
+The only author is [Guanxiong Shen](https://github.com/617147567), Heriot-watt University
 
 Student ID: H00236013
 
